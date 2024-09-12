@@ -1,13 +1,41 @@
-public class Candidato {
-    String nomeCompleto;
-    String dataNascimento;
-    String sexo;
-    String totalBens;
-    String reeleicao;
-    int partido;
-    String cargoPretendido;
 
-    // Método para exibir as informações do candidato
+class Candidato {
+    private String nomeCompleto;
+    private String dataNascimento;
+    private String sexo;
+    private String totalBens;
+    private String reeleicao;
+    private int partido;
+    private String cargoPretendido;
+
+    public void setNomeCompleto(String nome) {
+        this.nomeCompleto = nome;
+    }
+
+    public void setDataNascimento(String data) {
+        this.dataNascimento = data;
+    }
+
+    public void setSexo(String sexo) {
+        this.sexo = sexo;
+    }
+
+    public void setTotalBens(String bens) {
+        this.totalBens = bens;
+    }
+
+    public void setReeleicao(String reeleicao) {
+        this.reeleicao = reeleicao;
+    }
+
+    public void setPartido(int partido) {
+        this.partido = partido;
+    }
+
+    public void setCargoPretendido(String cargo) {
+        this.cargoPretendido = cargo;
+    }
+
     public void exibirInformacoes() {
         System.out.println("Nome Completo: " + nomeCompleto);
         System.out.println("Data de Nascimento: " + dataNascimento);
