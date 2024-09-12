@@ -30,7 +30,6 @@ public class principal {
 
         System.out.println("- Os valores lidos são:");
         System.out.printf("%d %d %d %d %d %d ", val1, val2, val3, val4, val5, val6);
-
     }
 
     public static void ex02(){
@@ -76,6 +75,7 @@ public class principal {
         }
     }
 
+<<<<<<< HEAD
     public static void ex04() {
         System.out.println("========== EX 04 ==========");
 
@@ -99,6 +99,12 @@ public class principal {
         for(int i = 0; i < 6; i++){
             System.out.printf(vetorQuatro[i] + "|");
         }
+=======
+    public static void main(String[] args) {
+        //ex01();
+        ex02();
+        //ex03();
+>>>>>>> 410c8d194ee74c713f6bc5eb9b4c6d54659a1bed
     }
 
     public static void ex05() {
