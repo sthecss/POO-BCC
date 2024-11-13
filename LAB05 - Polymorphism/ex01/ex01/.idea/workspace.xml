@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9a3eb35-8e5e-4e9e-9d22-bb2e9be58265" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/.idea/ex05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/enunciado.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/ex 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/.idea/ex05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/Chefe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/Empresa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/Horista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/Operario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/Vendedor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/out/production/ex05/enunciado.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/src/Chefe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/src/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/src/Horista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/src/Operario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex05/ex 5/src/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex06/ex 6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex06/ex 6/src/CamaroteInf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex06/ex 6/src/CamaroteSup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex06/ex 6/src/Ingresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex06/ex 6/src/Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex06/ex 6/src/VIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB04 - Inheritance/ex06/ex 6/src/enunciado.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex 1/src/Chefe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex 1/src/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex 1/src/FolhaDePagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex 1/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex 1/src/Horista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex 1/src/Operario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex 1/src/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/ex02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Bidimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Cubo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Esfera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Tetraedro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex02/ex02/src/Tridimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex03/ex03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ex03/ex03/ex03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitkeep" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2olaxIz5DJp3qKd6HdhMsebMbkk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Aulas/POO I/LAB05 - Polymorphism/ex01/ex01",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a3eb35-8e5e-4e9e-9d22-bb2e9be58265" name="Changes" comment="" />
+      <created>1731446860453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731446860453</updated>
+      <workItem from="1731446861525" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
